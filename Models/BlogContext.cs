@@ -2,7 +2,7 @@
 using Pomelo.AspNetCore.Extensions.BlobStorage.Models;
 
 namespace ExpoBlog.Models {
-    public class BlogContext : DbContext {
+    public class BlogContext : DbContext,IBlobStorageDbContext {
 
         public BlogContext (DbContextOptions<BlogContext> options) : base (options) { }
 
