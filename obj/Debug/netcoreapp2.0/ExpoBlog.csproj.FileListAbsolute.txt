@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\netcoretest\ExpoBlog\bin\Debug\netcoreapp2.0\ExpoBlog.deps.json
+C:\Users\user\Desktop\netcoretest\ExpoBlog\bin\Debug\netcoreapp2.0\ExpoBlog.runtimeconfig.json
+C:\Users\user\Desktop\netcoretest\ExpoBlog\bin\Debug\netcoreapp2.0\ExpoBlog.runtimeconfig.dev.json
+C:\Users\user\Desktop\netcoretest\ExpoBlog\bin\Debug\netcoreapp2.0\ExpoBlog.dll
+C:\Users\user\Desktop\netcoretest\ExpoBlog\bin\Debug\netcoreapp2.0\ExpoBlog.pdb
+C:\Users\user\Desktop\netcoretest\ExpoBlog\obj\Debug\netcoreapp2.0\ExpoBlog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\netcoretest\ExpoBlog\obj\Debug\netcoreapp2.0\ExpoBlog.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\netcoretest\ExpoBlog\obj\Debug\netcoreapp2.0\ExpoBlog.AssemblyInfo.cs
+C:\Users\user\Desktop\netcoretest\ExpoBlog\obj\Debug\netcoreapp2.0\ExpoBlog.dll
+C:\Users\user\Desktop\netcoretest\ExpoBlog\obj\Debug\netcoreapp2.0\ExpoBlog.pdb
