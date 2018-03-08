@@ -2,8 +2,9 @@
   "Not Found": "没有找到相关资源",
   "home": "首页",
   "Read More": "更多内容",
-  "Untitled Post": "新建文章",
-  "New Catalog": "新建分类",
+  "Untitled Post": "new articl",
+  "New Catalog": "1",
+  "New Catalog Title": "新建分类",
   "The resources have not been found, please check your request.": "您请求的资源没有找到，请检查请求是否正确。",
   "Back to home": "返回首页",
   "Admin Panel": "管理面板",
@@ -31,5 +32,6 @@
   "Edit": "编辑",
   "Remove": "删除",
   "Remove this post": "删除文章",
-  "Share to:": "分享到："
+  "Share to:": "分享到：",
+  "Log in":"登陆"
 }

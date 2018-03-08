@@ -1188,13 +1188,12 @@ a, a:visited {
 .page-header-bar {
     -webkit-transition: background .1s linear;
     transition: background .1s linear;
-    background: rgba(255,255,255,.2);
+    background: rgba(114, 10, 212, 0.7);
     height: 80px;
 }
 
 .page-header-bar-light {
-    /* background: #fafafa; */
-    background:rgba(255,255,255,.2);
+    background: #fafafa;
     -webkit-box-shadow: 0 0 10px rgba(0,0,0,.1);
     box-shadow: 0 0 10px rgba(0,0,0,.1);
 }
@@ -1349,27 +1348,6 @@ a, a:visited {
         background: #b62b2b;
     }
 
-
-    /* 添加自定义样式 */
-
-    .page-header-li-expo.page-header-li-active {
-        background: #db6767;
-    }
-    
-        .page-header-li-expo.page-header-li-active .page-header-li-s {
-            background: #cf3333;
-        }
-    
-    .page-header-li-expo:hover {
-        background: #d54d4d;
-    }
-    
-        .page-header-li-expo:hover .page-header-li-s {
-            background: #b62b2b;
-        }
-
-    /* Expo */
-
 .page-header-li-data-plat.page-header-li-active {
     background: #34b08e;
 }
@@ -1420,9 +1398,10 @@ a, a:visited {
 .page-footer {
     margin: 50px 0;
     text-align: center;
-    color: rgba(255,255,255,.7);
+    color: rgba(114, 10, 212, 0.7);
     font-size: .9em;
     position: relative;
+    /* background-color: rgba(114, 10, 212, 0.7); */
 }
 
     .page-footer a, .page-footer a:active, .page-footer a:hover, .page-footer a:visited {
@@ -1621,24 +1600,6 @@ body {
         background-color: #df7676;
         color: #fff;
     }
-
-    /* 
-    添加自定义样式
-    */
-    .body-expo {
-        background-color: #db6767;
-    }
-    
-        .body-expo .post ::-moz-selection, .body-expo .post-list ::-moz-selection {
-            background-color: #df7676;
-            color: #fff;
-        }
-    
-        .body-expo .post ::selection, .body-expo .post-list ::selection {
-            background-color: #df7676;
-            color: #fff;
-        }
-
 
 .body-data-plat {
     background-color: #34b08e;
@@ -2086,7 +2047,7 @@ td input[type="text"], td input[type="password"] {
 #lstTemplate{
     border: none;
     background: none;
-    color: rgba(255,255,255,.7);
+    color: rgba(114, 10, 212, 0.7);
 }
 
 .post-nav-page-current a {
